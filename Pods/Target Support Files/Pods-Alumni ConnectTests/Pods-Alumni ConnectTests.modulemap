@@ -1,0 +1,6 @@
+framework module Pods_Alumni_ConnectTests {
+  umbrella header "Pods-Alumni ConnectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

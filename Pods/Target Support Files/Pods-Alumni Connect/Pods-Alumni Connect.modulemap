@@ -1,0 +1,6 @@
+framework module Pods_Alumni_Connect {
+  umbrella header "Pods-Alumni Connect-umbrella.h"
+
+  export *
+  module * { export * }
+}
